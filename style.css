@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(240, 228, 228);
+} 
+ 
+ .container{
+    border: 0px solid black;
+
+}
+.row{
+    border: 0px solid red;
+
+}
+.col ,.col-8,.col-4{
+    border: 0px solid green;
+}
+#heading{
+ background-color: orange;
+ padding: 15px 0px 15px 15px;
+}
+#menu{
+background-color: rgb(159, 173, 185);
+padding: 5px 0px;
+}
+#menu ul{
+    list-style: none;
+    margin: 0px;
+    
+   
+}
+#menu ul li{
+    display: inline-block;
+    
+}
+#paraghrgaf{
+background-color: lightblue;
+}
+#said-munu{
+background-color: rgb(132, 253, 119);
+}
+#footer{
+background-color: rgb(192, 139, 42);
+}
