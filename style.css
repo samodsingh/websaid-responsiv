@@ -39,4 +39,9 @@ background-color: rgb(132, 253, 119);
 }
 #footer{
 background-color: rgb(192, 139, 42);
+word-wrap: break-word;
+}
+.red{
+    background-color: green;
+    color: red;
 }
